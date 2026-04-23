@@ -3,3 +3,4 @@
 # 但保留 .gitignore 自身和 PDF 文件
 !*.pdf
 !.gitignore
+!README.md
